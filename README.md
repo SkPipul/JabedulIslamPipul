@@ -6,7 +6,7 @@
 
 <p align="left"> <img src="" alt="MuhammadShekhJabed" /> </p>
 
-<p align="left"> <a href="https://github.com/SkPipul" alt="" /></a> </p>
+<p align="left"> <a href="https://github.com/SkPipul" alt="skpipul" /></a> </p>
 
 - 🔭 I’m currently working on **Next.js Project**
 
